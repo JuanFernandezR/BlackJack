@@ -1,0 +1,12 @@
+export const ZERO = 0,
+    EMPTY_LIST = [],
+    FIRST_CARD_VALUE = 2,
+    END_CARD_VALUE = 10,
+    AS_CARD_VALUE = 11,
+    SYMBOL_CARD_VALUE = 10,
+    NO_RISK_SCORE = 10,
+    BLACKJACK_VALUE = 21,
+    CARD_TYPES = ['C', 'D', 'H', 'S'],
+    SPECIAL_CARD_TYPES = ['A', 'J', 'Q', 'K'],
+    END_MESSAGES = { WIN: '¡Felicidades has ganado!', LOSE: '¡Has perdido, inténtalo de nuevo!', DRAW: '¡Has empatado!' },
+    COMPUTER_DELAY = 500;
