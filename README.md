@@ -1,5 +1,19 @@
 # BlackJack
-After download you need to run:
-To install: "npm run install"
-To execute: "npm run dev"
-To build a deploy version: "npm run build"
+
+## Installation & Usage
+
+After downloading, run the following commands:
+
+- **To install dependencies:**
+  ```sh
+  npm install
+  ```
+- **To start the development server:**
+  ```sh
+  npm run dev
+  ```
+- **To build a production version:**
+  ```sh
+  npm run build
+  ```
+
